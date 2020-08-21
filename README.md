@@ -14,7 +14,7 @@ Reversi playing AI using Monte Carlo Tree Search
 
 
 <dt>Full Report</dt>
-<dd>https://docs.google.com/viewer?url=https://raw.githubusercontent.com/psyquia/cpp-reversi-ai/blob/master/report/a5report.pdf<dd>
+<dd>https://github.com/psyquia/cpp-reversi-ai/blob/master/report/a5report.pdf<dd>
 
 
 <dl>
