@@ -6,7 +6,7 @@ Reversi playing AI using Monte Carlo Tree Search
 
 * The src directory contains three folders: 
   * pure-mcts 	- Pure Monte Carlo Tree Search AI
-  * mod-mcts 	  - Modified Monte Carlo Tree Search AI
+  * mod-mcts 	  - Monte Carlo Tree Search AI with added heuristics
   * versus 		  - Pure MCTS VS Modified MCTS program
 * OpenMP API was used to enable multithreading
 * Game and AI were written in C++ and compiled with GCC
