@@ -1,7 +1,7 @@
 # cpp-reversi-ai
 Reversi playing AI using Monte Carlo Tree Search
 
-<dl>
+
   <dt>Description</dt>
 * The src directory contains three folders: 
   * pure-mcts 	- Pure Monte Carlo Tree Search AI
@@ -13,7 +13,7 @@ Reversi playing AI using Monte Carlo Tree Search
   <dt>Full Report</dt>
   <dd>https://docs.google.com/viewer?url=https://raw.githubusercontent.com/psyquia/cpp-reversi-ai/blob/master/report/a5report.pdf
 <dd>
-</dl>
+
 
 <dl>
   <dt>Build and run:</dt>
